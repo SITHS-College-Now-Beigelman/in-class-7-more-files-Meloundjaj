@@ -1,0 +1,9 @@
+Player1 Alex
+Average: 71155
+Congratulations! You are an Expert!
+Player2 Maddie
+Average: 659
+Beginner - Keep practicing!
+Player3 Yani
+Average: 8.40821e+06
+Congratulations! You are an Expert!
